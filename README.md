@@ -38,11 +38,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Preview Desktop 
 
-![Projeto finance](/github/desktop.png)
+![Projeto finance](/assets/desktop.png)
 
 ## Preview Mobile 
 
-![Projeto finance](/github/mobile.png)
+![Projeto finance](/assets/mobile.png)
 
 
 
