@@ -36,13 +36,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind Ui
 - React-icons
 
-<!-- ## Preview Desktop 
+## Preview Desktop 
 
 ![Projeto finance](/github/desktop.png)
 
 ## Preview Mobile 
 
-![Projeto finance](/github/mobile.png) -->
+![Projeto finance](/github/mobile.png)
 
 
 
